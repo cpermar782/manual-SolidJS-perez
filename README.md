@@ -1,3 +1,4 @@
+ HEAD
 ## Usage
 
 ```bash
@@ -26,3 +27,7 @@ Your app is ready to be deployed!
 ## Deployment
 
 Learn more about deploying your application with the [documentations](https://vite.dev/guide/static-deploy.html)
+
+# manual-SolidJS-perez
+Manual de SolidJS - Carlos Pérez Martinez
+ 8361467562b1b46e4c597fae343bbf6af17a2046
